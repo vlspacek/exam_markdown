@@ -11,3 +11,11 @@
 1. Step 1
 2. Step 2
 3. Step 3
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+
+```js
+var myVar = "Hello, world!";
+```
